@@ -9,17 +9,12 @@
 
 ### Contatos:
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magno-veras-7a97579b) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omagnoveras/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magno-veras-7a97579b) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omagnoveras/)
 
-          
-<div>
-  <a href="https://github.com/omagnoveras">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-                  
-          
-  
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=omagnoveras)](https://github.com/anuraghazra/github-readme-stats)
+
+![Status Github Magno Veras](https://github-readme-stats.vercel.app/api?username=omagnoveras&show_icons=true&theme=dark)
 
 <!--
 **omagnoveras/omagnoveras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
