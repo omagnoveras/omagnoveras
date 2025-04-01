@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magno-veras-7a97579b) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omagnoveras/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omagnoveras&layout=donut"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omagnoveras&layout=donut"/>
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omagnoveras&show_icons=true&theme=dark"/>
